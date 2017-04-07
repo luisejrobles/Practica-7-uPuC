@@ -1,0 +1,8 @@
+
+AVRASM ver. 2.1.14  C:\Micros\P7\p7.asm Thu Apr 06 18:26:56 2017
+
+
+EQU  INIT_VALUE   00000001
+EQU  CONFIG_PORT  000000ff
+CSEG r232         00000001
+CSEG label1       00000003
