@@ -16,12 +16,11 @@ int main(void)
 
 void ret232()
 {
-	int m = 0, n;
-	
+	int m = 0, n;	
 	do{
 		n = 0;
 		do{
-			if( ((4*n)+(3*m*n)) == 3730)
+			if( ((4*n)+(3*m*n)+14) == 3744)
 			{
 				printf("\nm: %d",m);
 				printf("\nn: %d",n);		
@@ -39,7 +38,7 @@ void ret5ms()
 	do{
 		n = 0;
 		do{
-			if( ((4*n)+(3*m*n)) == 79990)
+			if( ((4*n)+(3*m*n)+10) == 80000)
 			{
 				printf("\nm: %d",m);
 				printf("\nn: %d",n);

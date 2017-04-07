@@ -18,7 +18,16 @@
   <FILE>C:\Micros\P7\P7.map</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <r232><FILE>C:\Micros\P7\p7.asm</FILE><LINE>15</LINE></r232>
-  <label1><FILE>C:\Micros\P7\p7.asm</FILE><LINE>19</LINE></label1>
+  <inicio><FILE>C:\Micros\P7\p7.asm</FILE><LINE>11</LINE></inicio>
+  <ret666ms><FILE>C:\Micros\P7\p7.asm</FILE><LINE>51</LINE></ret666ms>
+  <ret234us><FILE>C:\Micros\P7\p7.asm</FILE><LINE>19</LINE></ret234us>
+  <r232><FILE>C:\Micros\P7\p7.asm</FILE><LINE>25</LINE></r232>
+  <label1><FILE>C:\Micros\P7\p7.asm</FILE><LINE>28</LINE></label1>
+  <ret5ms><FILE>C:\Micros\P7\p7.asm</FILE><LINE>37</LINE></ret5ms>
+  <r55><FILE>C:\Micros\P7\p7.asm</FILE><LINE>39</LINE></r55>
+  <label51><FILE>C:\Micros\P7\p7.asm</FILE><LINE>42</LINE></label51>
+  <r666><FILE>C:\Micros\P7\p7.asm</FILE><LINE>53</LINE></r666>
+  <label16><FILE>C:\Micros\P7\p7.asm</FILE><LINE>57</LINE></label16>
+  <label21><FILE>C:\Micros\P7\p7.asm</FILE><LINE>60</LINE></label21>
  </LABELS>
 </ASSEMBLER_INFO>
